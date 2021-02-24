@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<dogs> 
+  <dog> 
+    <name>Daisy</name> 
+    <age>5</age> 
+  </dog>    
+  <dog> 
+    <name>Max</name>
+    <age>9</age> 
+  </dog> 
+  <dog> 
+    <name>Luna</name> 
+    <age>11</age> 
+  </dog> 
+  <dog> 
+    <name>Cooper</name> 
+    <age>2</age> 
+  </dog> 
+</dogs>
